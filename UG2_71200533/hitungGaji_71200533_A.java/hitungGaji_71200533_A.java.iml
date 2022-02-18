@@ -1,0 +1,9 @@
+public class HitungGaji
+  public static void main(String[] args) {
+    Scanner inp = new Scanner(System.in);
+    int pilihanuser = inp.nextInt("Berapa karyawan : ");
+    int pilihanuser1 = inp.nextInt("Masukkan jumlah jam kerja : ");
+
+    int hasil = int pilihanuser * int pilihanuser1
+
+}
